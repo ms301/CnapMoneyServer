@@ -1,0 +1,11 @@
+{
+	"name": "CnapMoneyServer",
+	"description": "",
+	"version": "0.0.1",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/horse": "^2.0.12"
+	}
+}
